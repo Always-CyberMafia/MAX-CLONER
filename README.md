@@ -35,6 +35,14 @@ python supervipclone.py
 ```
 
 ---
+## OPEN HITS CLONE ID IN TERMUX WITHOUT STORAGE PERMISSION 
+```bash
+less MAX-OLD-M1-OK.txt
+```
+OR
+```bash
+less MAX-OLD-M2-OK.txt
+```
 
 ## ✨ Features
 
